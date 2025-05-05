@@ -1,14 +1,20 @@
-# Claude Memory Primer for GhostOps.ai
-project_owner: Luke Jarvis
-organization: GhostOps.ai
-contact: ghostops.contact@protonmail.com
-projects:
-  - GhostGPT:
-      description: Modular AI assistant for code generation, fabrication, task orchestration.
-  - GhostOS:
-      description: AI-native OS with fabrication, drone/robot, encrypted comms, offline-first.
-  - Jarvis Lite:
-      description: Tactical AI for robotics, comms, motion AI, military-grade autonomy.
-  - GhostPuntr:
-      description: Betting AI agent for EV analysis, form logic, bankroll tracking.
+# Claude Memory Primer (Redacted)
+
+This file previously held memory-seeding logic for Claude-based AI agents developed under the GhostOps.ai umbrella.
+
+Due to the sensitivity of operational AI systems, the actual prompt content has been removed.
+
+---
+
+Public Overview:
+- GhostGPT: Secure modular AI assistant
+- GhostOS: Encrypted AI-native operating system
+- Jarvis Lite: Tactical robotics and autonomous field AI
+- GhostPuntr: Form-aware sports AI for strategic wagering
+- GhostGrid: Distributed compute + task sync mesh
+
+---
+
+For access or partnerships, contact:
+ghostops.contact@protonmail.com
 ...
